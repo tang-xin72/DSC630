@@ -1,0 +1,5 @@
+study case for PA
+
+https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset/code
+
+https://www.kaggle.com/datasets/kushshah95/the-insurance-company-tic-benchmark/code

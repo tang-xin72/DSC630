@@ -1,0 +1,31 @@
+time series prediction
+
+https://medium.com/analytics-vidhya/predicting-sales-time-series-analysis-forecasting-with-python-b81d3e8ff03f
+
+
+time series in python
+https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python
+
+AutoRegressive Integrated Moving Average (ARIMA) models are among the most widely used time series forecasting techniques: In an Autoregressive model, the forecasts correspond to a linear combination of past values of the variable.
+
+
+df['new_column'] = df['column1'].astype(str) + df['column2']
+
+How to split tiem series data using sklearn
+https://medium.com/@Stan_DS/timeseries-split-with-sklearn-tips-8162c83612b9
+
+
+general idea.
+model prediction using arima model (need stationary series)
+https://neptune.ai/blog/select-model-for-time-series-prediction-task
+
+pd.to_datetime(df[["year", "month", "day"]])
+
+Step1:
+predict using arima
+https://www.kaggle.com/code/dpamgautam/prediction-using-ar-and-arima
+
+
+Step2. if build Arima, not AR, then using article below to select arima parameters. 
+https://www.projectpro.io/article/how-to-build-arima-model-in-python/544#:~:text=1.-,What%20is%20ARIMA%20in%20Python%3F,to%20handle%20non%2Dstationary%20data.
+
